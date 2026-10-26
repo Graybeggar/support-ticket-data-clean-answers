@@ -1,0 +1,45 @@
+ticket_ref,requester_email,category,priority,status,created_at,resolved_at,subject
+T-1032,ben.carter@example.com,Account,,CLOSED,10/03/2026,10/04/2026,Update billing address
+T-1040,priya.nair@example.com,billing,Normal,Resolved,2026/09/16,09/18/2026,Card on file was declined
+T-1034,ben.carter@example.com,Bug,NORMAL,Closed,"Oct 6, 2026",10/07/2026,App crashes on the reports page
+T-1015,tom.becker@example.com,Bug,High ,Resolved,2026/09/09,09/10/2026,Dates show one day off in the list
+T-1029,jules.kim@example.com,login,NORMAL,Open,2026/09/22,,Password reset link expired
+T-1005,omar.haddad@example.com,Account ,NORMAL,resolved,09/24/2026,2026-09-26,Close my account request
+T-1036,priya.nair@example.com,Feature Request,Normal,Resolved,10/10/2026,"Oct 13, 2026",Saved filters for the queue
+T-1019,tom.becker@example.com,Bug,Normal,In progress,2026-10-06,,Dates show one day off in the list
+T-1003,omar.haddad@example.com,Login,High,closed ,2026-09-22,"Sep 23, 2026",Two-factor code never arrives
+T-1017,omar.haddad@example.com,Login,normal,Resolved,2026-09-09,2026-09-09,Password reset link expired
+T-1012,omar.haddad@example.com,billing,High,resolved,2026/10/07,2026/10/07,Discount code did not apply
+T-1011,ada.green@example.com,Account,NORMAL,Pending,"Oct 5, 2026",,Merge two accounts into one
+T-1006,ada.green@example.com,Bug Report,High,closed ,"Oct 11, 2026","Oct 12, 2026",Export button downloads an empty file
+T-1007,tom.becker@example.com,Login Issue,low,CLOSED,2026/10/07,2026/10/07,Login page loops back to start
+T-1033,jules.kim@example.com,Bug Report,Urgent,In progress,2026/10/13,,Dates show one day off in the list
+T-1018,ada.green@example.com,LOGIN,High,resolved,2026/10/02,2026/10/03,Two-factor code never arrives
+T-1026,omar.haddad@example.com,Billing ,high,Waiting,2026-09-09,,Charged twice for September
+T-1009,jules.kim@example.com,Bug Report,NORMAL,Resolved,"Sep 30, 2026",2026-09-30,Search returns no results for a known name
+T-1021,derek.wells@example.com,BILLING,,Closed,09/16/2026,2026-09-19,Need a copy of my receipt
+T-1016,ben.carter@example.com,Bug Report,,In Progress,09/04/2026,,App crashes on the reports page
+T-1008,priya.nair@example.com,Account ,High,closed ,2026-09-09,2026-09-10,Close my account request
+T-1020,omar.haddad@example.com,Billing,,waiting,2026-10-01,,Discount code did not apply
+T-1011,ada.green@example.com,Account,NORMAL,Pending,"Oct 5, 2026",,Merge two accounts into one
+T-1024,priya.nair@example.com,Feature,Low,Resolved,2026-10-12,"Oct 14, 2026",Export tickets to CSV
+T-1018,ada.green@example.com,LOGIN,High,Closed,2026/10/02,2026/10/03,Two-factor code never arrives
+T-1039,omar.haddad@example.com,LOGIN,NORMAL,resolved,"Oct 1, 2026",10/02/2026,Login page loops back to start
+T-1038,nina.petrova@example.com,Login Issue,High ,closed ,2026/10/15,2026-10-15,Login page loops back to start
+T-1028,tom.becker@example.com,billing,high,waiting,2026/10/06,,Charged twice for September
+T-1013,ben.carter@example.com,Login Issue,high,pending,2026/10/09,,Password reset link expired
+T-1006,ada.green@example.com,Bug Report,High,Closed,"Oct 11, 2026","Oct 12, 2026",Export button downloads an empty file
+T-1010,derek.wells@example.com,Login Issue,NORMAL,In progress,09/17/2026,,Locked out after too many tries
+T-1023,marta.ruiz@example.com,Feature,High,waiting,2026/09/17,,Email alerts for overdue tickets
+T-1001,sam.ortiz@example.com,billing,,resolved,2026-09-18,2026-09-18,Discount code did not apply
+T-1031,jules.kim@example.com,Feature Request,HIGH,Open,2026/09/02,,Email alerts for overdue tickets
+T-1037,tom.becker@example.com,feature request, low,Resolved,2026-09-05,09/08/2026,Saved filters for the queue
+T-1002,ada.green@example.com,login,NORMAL,closed ,"Oct 15, 2026",2026/10/15,Two-factor code never arrives
+T-1025,ada.green@example.com,Account,HIGH,closed ,"Sep 14, 2026",2026/09/14,Change the email on my account
+T-1004,jules.kim@example.com,Feature Request,Low,resolved,2026-09-24,2026-09-30,Saved filters for the queue
+T-1014,ada.green@example.com,Login Issue,High,Resolved,09/22/2026,2026-09-22,Two-factor code never arrives
+T-1004,jules.kim@example.com,Feature Request,Low,resolved,2026-09-24,2026-09-30,Saved filters for the queue
+T-1027,marta.ruiz@example.com,Login,,Closed,09/24/2026,2026/09/25,Locked out after too many tries
+T-1030,jules.kim@example.com,Bug,high,Closed,"Sep 30, 2026",2026-09-30,Search returns no results for a known name
+T-1035,omar.haddad@example.com,BUG,normal,resolved,2026-10-09,2026/10/10,Dates show one day off in the list
+T-1022,sam.ortiz@example.com,Account,HIGH,in progress,2026-09-26,,Change the email on my account
